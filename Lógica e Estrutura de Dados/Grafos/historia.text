@@ -1,0 +1,18 @@
+Surgiu das 7 pontes de konigsberg, onde queriam saber se era possível passar por todas as cidades sem passar pela mesma ponte 2 vezes;
+Grafos são ligações feitas por coisas. 
+Ex 1: Redes ( Computador e cabo)
+Ex 2: Web Sites (Páginas e link)
+Ex 3: Rodovias (ligam cidades)
+Vertices = Cada ponto
+Arestas = Ligação
+
+Diferentes tipos de grafos:
+Grafo de pares ordenados: possui uma direção caminho direcional (Rua com mão única)
+
+Grafo de pares não ordenados: possui ambas direções vai e volta (Rua de mão dupla)
+
+O grau de cada vertice é dado por quantas aresta ele tem
+
+Grafos são usados para criar o caminho mais rápido
+
+
